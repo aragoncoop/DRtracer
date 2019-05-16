@@ -13,10 +13,10 @@ This document is oriented to report performed effort allocation from the Delegat
 Includes Discussions, ACGP process and proposals, Coordinations and general Coop meetings and community management
 
 | Task | Description | Links to deliverables | Specific Days  | Time applied |  
-|---|---|---|---|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+|---|---|---|---|---|
+|  |  |  |  | |
+|  |  |  |  | |
+|  |  |  |  | |
 
 
 ## Working-Groups:
