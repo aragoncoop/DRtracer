@@ -2,7 +2,7 @@
 
 ```
 - Delegated Resource: Julian Brooks [JuBr]
-- Time period: <!-- from monday 06/05/19 to sunday 12/05/19 -->
+- Time period: <!-- from Monday 13/05/19 to Sunday 19/05/19 -->
 - contact: coao@julianbrooks.net
 - keybaseID: [julian_brooks](keybase.io/julian_brooks)
 - Total effort: in HWD [2 HWD =>16 hours]
@@ -29,7 +29,7 @@ This document is oriented to report performed effort allocation from the Delegat
 |JuBr012 | `Governance` `education` `outreach` `admin` | completed application process to present at _OPEN:2019_ Conference, various emails & messages, cfdao application  | lightening talk application successful, apply CFDAO for funding https://forum.aragon.org/t/funding-proposal-open-2019-community-gathering-decentralised-collaboration-the-open-co-op/962| 2hr  |  |
 |JuBr013 |  |  |  |  |  |
 
-approx (minimum) time applied = 27hrs
+Actual approx (minimum) time applied = 27hrs
 
 ### Legend
 - **TaskID**: Please keep consistency and uniqueness within this Task ID with the following format: #[NaSu]000.
