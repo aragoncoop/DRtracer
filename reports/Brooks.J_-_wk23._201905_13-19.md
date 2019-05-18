@@ -24,7 +24,7 @@ This document is oriented to report performed effort allocation from the Delegat
 |JuBr007 | `Governance` | weekly & MoM / inc notetaking, agenda prep, 2wg (lead) pres & final MoM doc upload | https://github.com/aragoncoop/meetings-and-minutes/blob/master/MoM-05-15.md | 2hr |  |
 |JuBr008 | `education` `tools` | dog-fooding Aragon tools and orgs | _TPS_, _Pando_ | 2hr |  |
 |JuBr009 | `outreach` `onboarding` 'social media'| Aragon DAO intro's & chats via social media |e.g. https://twitter.com/culturebanks/status/1128175439585923073 (+ further follow up and DAO setup assistance)  | 1hr |  |
-|JuBr010 | `Governance` `WG` | 'discussions w. new WG member (Morshed Mannan) & prelim work on Bylaws' |  | 2hr  |  |
+|JuBr010 | `Governance` `WG` | 'research & discussions w. new WG member (Morshed Mannan), + prelim work on Bylaws' | https://hackmd.io/28XRukNuRBGfUA3xiyeEwQ | 2hr  |  |
 |JuBr011 | `Reporting` | participation on Aragon chat and forum |e.g. chat member comment "I'm happy to see so many bright minds in the Aragon community:f:"  | 2hr |  |
 |JuBr012 | `Governance` `education` `outreach` `admin` | completed application process to present at _OPEN:2019_ Conference, various emails & messages, cfdao application  | lightening talk application successful, apply CFDAO for funding https://forum.aragon.org/t/funding-proposal-open-2019-community-gathering-decentralised-collaboration-the-open-co-op/962| 2hr  |  |
 |JuBr013 |  |  |  |  |  |
