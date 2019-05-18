@@ -2,7 +2,7 @@
 
 ```
 - Delegated Resource: Julian Brooks [JuBr]
-- Time period: <!-- from Monday 13/05/19 to Sunday 19/05/19 -->
+- Time period: <!-- from Monday 13/05/13 to Sunday 19/05/19 -->
 - contact: coao@julianbrooks.net
 - keybaseID: [julian_brooks](keybase.io/julian_brooks)
 - Total effort: in HWD [2 HWD =>16 hours]
@@ -21,7 +21,7 @@ This document is oriented to report performed effort allocation from the Delegat
 |JuBr004 | `WorkingGroup` | numerous DM's w. various WG (+ poss members)  |e.g. https://forum.aragon.org/t/community-fund-dao-being-curated-and-or-managed-by-the-cooperative-dao/934/10 | 2hr |  |
 |JuBr005 | `Governance` | discuss coopdao opportunities & interests w. 3 pre-members via keybase dm's | ongoing | 1hr  |  |
 |JuBr006 | `tasks` | design logo meeting details | @dizzypati agreed to design new coopdao logo | 2hr |  |
-|JuBr007 | `Governance` | weekly & MoM / inc notetaking, agenda prep, 2wg (lead) pres & final MoM doc upload |  | 2hr |  |
+|JuBr007 | `Governance` | weekly & MoM / inc notetaking, agenda prep, 2wg (lead) pres & final MoM doc upload | https://github.com/aragoncoop/meetings-and-minutes/blob/master/MoM-05-15.md | 2hr |  |
 |JuBr008 | `education` `tools` | dog-fooding Aragon tools and orgs | _TPS_, _Pando_ | 2hr |  |
 |JuBr009 | `outreach` `onboarding` 'social media'| Aragon DAO intro's & chats via social media |e.g. https://twitter.com/culturebanks/status/1128175439585923073 (+ further follow up and DAO setup assistance)  | 1hr |  |
 |JuBr010 | `Governance` `WG` | 'discussions w. new WG member (Morshed Mannan) & prelim work on Bylaws' |  | 2hr  |  |
