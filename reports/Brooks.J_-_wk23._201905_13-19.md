@@ -1,4 +1,4 @@
-# Weekly Report #w22.
+# Weekly Report #w23.
 
 ```
 - Delegated Resource: Julian Brooks [JuBr]
